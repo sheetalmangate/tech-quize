@@ -41,13 +41,13 @@ To run this application on your local
 
 ## Walk-through Video     
  For the demonstration of application's functionality view the walk trough video 
- [Employee Tracker App](https://app.screencastify.com/v3/watch/UE2FAjDIQRoz6vP6IIH8)
+ [Tech Quiz App](https://app.screencastify.com/v3/watch/sNlQ0JH53yxWq6ruwWiI)
 
 
 ## Contributing
 Contributions and PR's are welcome.
 
-- Feel free to check [issues page](https://github.com/sheetalmangate/weather_dashboard/issues) if you want to contribute.
+- Feel free to check [issues page](https://github.com/sheetalmangate/tech-quize/issues) if you want to contribute.
 - Open a Pull Request 
     <p>Navigate to the original repository and click on "New Pull Request". Describe your changes and submit the pull request.</p>
 
