@@ -20,7 +20,7 @@ describe('cypress demo', () => {
 
     })
 
-    it('should answers questions and complete the quize',() => {
+    it('should answers questions and render new quize',() => {
 
         cy.get('button').should('have.text', "Start Quiz").click();
 

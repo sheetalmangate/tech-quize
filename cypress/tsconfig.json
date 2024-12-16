@@ -6,7 +6,7 @@
     "types": ["cypress", "node", "@testing-library/cypress"],
     "isolatedModules": false,
     "noEmit": true,
-    "composite": true,
+    //"composite": true,
     "jsx": "react-jsx",
     "strict": true
   },
